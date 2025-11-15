@@ -39,6 +39,11 @@ The dataset contains information such as:
 These variables were used to explore user rating behavior and book
 popularity.
 
+**Note:**  
+*The dataset is not uploaded to this repository because it is too large.*  
+If you need access, please download it from Kaggle and place it locally when running the notebook.
+
+
 ## **Data Cleaning**
 
 Key preprocessing steps:
