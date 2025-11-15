@@ -6,9 +6,7 @@ authors, and review trends over time.\
 This project aims to uncover meaningful insights about reader behavior,
 book popularity, and factors influencing rating patterns.
 
-------------------------------------------------------------------------
-
-## **📌 Project Overview**
+## **Project Overview**
 
 This project involves:
 
@@ -22,9 +20,7 @@ The analysis was completed using Python in a Jupyter Notebook
 environment, with libraries such as **Pandas**, **NumPy**,
 **Matplotlib**, and **Seaborn**.
 
-------------------------------------------------------------------------
-
-## **📂 Dataset**
+## **Dataset**
 
 The dataset contains information such as:
 
@@ -41,7 +37,7 @@ popularity.
 
 ------------------------------------------------------------------------
 
-## **🧹 Data Cleaning**
+## **Data Cleaning**
 
 Key preprocessing steps:
 
@@ -77,9 +73,7 @@ The project includes the following analyses:
 -   Increasing number of reviews over time\
 -   Growth reflects rising user activity on online platforms
 
-------------------------------------------------------------------------
-
-## **🔍 Key Insights**
+## **Key Insights**
 
 -   Readers tend to give positive ratings overall\
 -   Book price is **not** a strong predictor of rating\
@@ -89,14 +83,12 @@ The project includes the following analyses:
 
 ------------------------------------------------------------------------
 
-## **📁 Project Files**
+## **Project Files**
 
 -   `Project_1_Book_Data_Analysis.ipynb` --- Main analysis notebook\
 -   `README.md` --- Project documentation
 
-------------------------------------------------------------------------
-
-## **🚀 Technologies Used**
+## **Technologies Used**
 
 -   Python\
 -   Pandas\
@@ -105,9 +97,7 @@ The project includes the following analyses:
 -   Seaborn\
 -   Jupyter Notebook
 
-------------------------------------------------------------------------
-
-## **📌 Future Work**
+## **Future Work**
 
 Possible extensions:
 
@@ -115,6 +105,3 @@ Possible extensions:
 -   Sentiment analysis of textual reviews\
 -   Book recommendation system\
 -   Time-series forecasting of review activity
-
-------------------------------------------------------------------------
-
