@@ -22,6 +22,10 @@ environment, with libraries such as **Pandas**, **NumPy**,
 
 ## **Dataset**
 
+The dataset used is **“Amazon Books Reviews”** from Kaggle.  
+You can find it here:  
+[Amazon Books Reviews – Kaggle](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
+
 The dataset contains information such as:
 
 -   Book title
